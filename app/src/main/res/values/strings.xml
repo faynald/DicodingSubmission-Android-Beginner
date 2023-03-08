@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Yu-Gi-Oh! Card</string>
+    <string name="menu_about_title">About</string>
+    <string name="about_myname">Farhan Reynaldi Valerian</string>
+    <string name="about_myemail">faynald@gmail.com</string>
+    <string name="card_photo">Card Photo</string>
+    <string name="profile_photo">Profile Photo</string>
+</resources>
